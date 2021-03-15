@@ -5,7 +5,8 @@
   "author": "Jasan Hernández <jasan814@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "start": "node app.js"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
